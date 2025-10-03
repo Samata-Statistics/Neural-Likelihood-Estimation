@@ -3,9 +3,9 @@ This project is based on the likelihood estimation when likelihood is intractabl
 
 # Methodology behind obtaining estimated likelihood
 This is a block equation:
-$$
+$
 \sum_{k=1}^n k = \frac{n(n+1)}{2}
-$$
+$
 
 
 
